@@ -11,7 +11,7 @@ this is aBallSim
 
 
 
-"Hey everyone! Welcome back to [Your Channel Name]! In today's video, I'm going to show you how to create a cool bouncing ball animation using p5.js. This project is perfect for beginners and will help you understand the basics of animation and collision detection in JavaScript. So, let's get started!"
+"Hey everyone! Welcome back to gamechange! In today's video, I'm going to show you how to create a cool bouncing ball animation using p5.js. This project is perfect for beginners and will help you understand the basics of animation and collision detection in JavaScript. So, let's get started!"
 
 ---
 
